@@ -1,34 +1,34 @@
 {
-  "version": "109",
+  "version": "110",
   "resources": {
     "sites.cp312-win_amd64.pyd": {
       "type": "auth",
       "platform": "Windows",
       "target": "app/helper",
-      "version": "2.3.6"
+      "version": "2.3.7"
     },
     "sites.cpython-312-aarch64-linux-gnu.so": {
       "type": "auth",
       "platform": "Arm64",
       "target": "app/helper",
-      "version": "2.3.6"
+      "version": "2.3.7"
     },
     "sites.cpython-312-darwin.so": {
       "type": "auth",
       "platform": "MacOS",
       "target": "app/helper",
-      "version": "2.3.6"
+      "version": "2.3.7"
     },
     "sites.cpython-312-x86_64-linux-gnu.so": {
       "type": "auth",
       "platform": "Linux",
       "target": "app/helper",
-      "version": "2.3.6"
+      "version": "2.3.7"
     },
     "user.sites.v2.bin": {
       "type": "sites",
       "target": "app/helper",
-      "version": "2.0.3"
+      "version": "2.0.4"
     }
   }
 }
