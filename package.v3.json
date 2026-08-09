@@ -1,5 +1,5 @@
 {
-  "version": "1",
+  "version": "2",
   "resources": {
     "sites.cp311-win_amd64.pyd": {
       "type": "auth",
@@ -100,7 +100,7 @@
     "user.sites.v3.bin": {
       "type": "sites",
       "target": "app/helper",
-      "version": "3.0.0"
+      "version": "3.0.1"
     }
   }
 }
