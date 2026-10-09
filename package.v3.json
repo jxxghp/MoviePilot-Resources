@@ -1,101 +1,101 @@
 {
-  "version": "21",
+  "version": "22",
   "resources": {
     "sites.cp311-win_amd64.pyd": {
       "type": "auth",
       "platform": "Windows",
       "target": "app/application/site",
-      "version": "3.0.4"
+      "version": "3.0.5"
     },
     "sites.cp312-win_amd64.pyd": {
       "type": "auth",
       "platform": "Windows",
       "target": "app/application/site",
-      "version": "3.0.4"
+      "version": "3.0.5"
     },
     "sites.cp313-win_amd64.pyd": {
       "type": "auth",
       "platform": "Windows",
       "target": "app/application/site",
-      "version": "3.0.4"
+      "version": "3.0.5"
     },
     "sites.cp314-win_amd64.pyd": {
       "type": "auth",
       "platform": "Windows",
       "target": "app/application/site",
-      "version": "3.0.4"
+      "version": "3.0.5"
     },
     "sites.cpython-311-aarch64-linux-gnu.so": {
       "type": "auth",
       "platform": "Arm64",
       "target": "app/application/site",
-      "version": "3.0.4"
+      "version": "3.0.5"
     },
     "sites.cpython-311-darwin.so": {
       "type": "auth",
       "platform": "MacOS",
       "target": "app/application/site",
-      "version": "3.0.4"
+      "version": "3.0.5"
     },
     "sites.cpython-311-x86_64-linux-gnu.so": {
       "type": "auth",
       "platform": "Linux",
       "target": "app/application/site",
-      "version": "3.0.4"
+      "version": "3.0.5"
     },
     "sites.cpython-312-aarch64-linux-gnu.so": {
       "type": "auth",
       "platform": "Arm64",
       "target": "app/application/site",
-      "version": "3.0.4"
+      "version": "3.0.5"
     },
     "sites.cpython-312-darwin.so": {
       "type": "auth",
       "platform": "MacOS",
       "target": "app/application/site",
-      "version": "3.0.4"
+      "version": "3.0.5"
     },
     "sites.cpython-312-x86_64-linux-gnu.so": {
       "type": "auth",
       "platform": "Linux",
       "target": "app/application/site",
-      "version": "3.0.4"
+      "version": "3.0.5"
     },
     "sites.cpython-313-aarch64-linux-gnu.so": {
       "type": "auth",
       "platform": "Arm64",
       "target": "app/application/site",
-      "version": "3.0.4"
+      "version": "3.0.5"
     },
     "sites.cpython-313-darwin.so": {
       "type": "auth",
       "platform": "MacOS",
       "target": "app/application/site",
-      "version": "3.0.4"
+      "version": "3.0.5"
     },
     "sites.cpython-313-x86_64-linux-gnu.so": {
       "type": "auth",
       "platform": "Linux",
       "target": "app/application/site",
-      "version": "3.0.4"
+      "version": "3.0.5"
     },
     "sites.cpython-314-aarch64-linux-gnu.so": {
       "type": "auth",
       "platform": "Arm64",
       "target": "app/application/site",
-      "version": "3.0.4"
+      "version": "3.0.5"
     },
     "sites.cpython-314-darwin.so": {
       "type": "auth",
       "platform": "MacOS",
       "target": "app/application/site",
-      "version": "3.0.4"
+      "version": "3.0.5"
     },
     "sites.cpython-314-x86_64-linux-gnu.so": {
       "type": "auth",
       "platform": "Linux",
       "target": "app/application/site",
-      "version": "3.0.4"
+      "version": "3.0.5"
     },
     "user.sites.v3.bin": {
       "type": "sites",
@@ -106,25 +106,25 @@
       "type": "auth",
       "platform": "Windows",
       "target": "app/application/site",
-      "version": "3.0.4"
+      "version": "3.0.5"
     },
     "sites.cpython-314t-aarch64-linux-gnu.so": {
       "type": "auth",
       "platform": "Arm64",
       "target": "app/application/site",
-      "version": "3.0.4"
+      "version": "3.0.5"
     },
     "sites.cpython-314t-darwin.so": {
       "type": "auth",
       "platform": "MacOS",
       "target": "app/application/site",
-      "version": "3.0.4"
+      "version": "3.0.5"
     },
     "sites.cpython-314t-x86_64-linux-gnu.so": {
       "type": "auth",
       "platform": "Linux",
       "target": "app/application/site",
-      "version": "3.0.4"
+      "version": "3.0.5"
     }
   }
 }
