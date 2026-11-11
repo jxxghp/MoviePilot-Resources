@@ -1,5 +1,5 @@
 {
-  "version": "34",
+  "version": "35",
   "resources": {
     "sites.cp311-win_amd64.pyd": {
       "type": "auth",
@@ -100,7 +100,7 @@
     "user.sites.v3.bin": {
       "type": "sites",
       "target": "app/application/site",
-      "version": "3.0.29"
+      "version": "3.0.30"
     },
     "sites.cp314t-win_amd64.pyd": {
       "type": "auth",
